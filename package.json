@@ -1,6 +1,6 @@
 {
 		"name": "padora",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"description": "This tool, fills placeholders in a text with real values from a provided dataset, making it easy to create dynamic content.",
 		"author": {
 				"name": "Mustafa Erdem Köşk",
