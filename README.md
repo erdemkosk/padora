@@ -3,7 +3,7 @@
 
 ![Logo](https://i.imgur.com/o3YthOy.png)
 
-This is designed to fill placeholders (template strings) in the input text with corresponding values from a given data object. It essentially performs template interpolation, replacing placeholders with actual data values, allowing for dynamic content generation in text templates.
+This is designed to fill placeholders (template strings) in the input text with corresponding values from a given data object. It essentially performs template interpolation, replacing placeholders with actual data values, allowing for dynamic content generation in text templates
 
 
 ## Installation
